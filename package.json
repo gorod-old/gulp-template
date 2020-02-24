@@ -22,5 +22,7 @@
     "gulp-uglifyjs": "^0.6.2",
     "imagemin-pngquant": "^8.0.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "lodash.template": "^4.5.0"
+  }
 }
